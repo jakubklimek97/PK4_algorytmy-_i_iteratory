@@ -29,10 +29,10 @@ Algorytmy:
 
 Zadanie 4.
 Sprawdź działanie następujących funkcji:
-	replace(beg, end, old_val, new_val);
-	replace_if(beg, end, pred, new_val);
-	replace_copy(beg, end, dest, old_val, new_val);
-	replace_copy_if(beg, end, dest, pred, new_val);
+ Markup : *replace(beg, end, old_val, new_val);
+	   *replace_if(beg, end, pred, new_val);
+	   *replace_copy(beg, end, dest, old_val, new_val);
+	   *replace_copy_if(beg, end, dest, pred, new_val);
 Dla zadeklarowanych w pliku nagłówkowym "algorytmy.h" wektorów v1 (zawierający liczby) 
 i v2 (pusty) uruchom poniższą funkcję i sprawdź zawartość obydwu wektorów. 
 Uzasadnij działanie funkcji.
