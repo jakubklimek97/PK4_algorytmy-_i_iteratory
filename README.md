@@ -46,4 +46,8 @@ Napisz program ładujący liczby z pliku “zad6.txt” i wypisujący liczby par
 W zadaniu użyj iteratorów strumienia we/wy i algorytmów for_each, accumulate.
 Nie wolno wykorzystywać operatorów << i >> do zapisu/odczytu.
     
+  * Bullet list
+    * Nested bullet
+        * Sub-nested bullet etc
+* Bullet list item 2
 
