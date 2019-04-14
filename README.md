@@ -29,6 +29,11 @@ Algorytmy:
 
 Zadanie 4.
 Sprawdź działanie następujących funkcji:
+* Bullet list
+* Bullet list
+* Bullet list
+* Bullet list item 2
+
  Markup : *replace(beg, end, old_val, new_val);
 	   *replace_if(beg, end, pred, new_val);
 	   *replace_copy(beg, end, dest, old_val, new_val);
@@ -46,8 +51,4 @@ Napisz program ładujący liczby z pliku “zad6.txt” i wypisujący liczby par
 W zadaniu użyj iteratorów strumienia we/wy i algorytmów for_each, accumulate.
 Nie wolno wykorzystywać operatorów << i >> do zapisu/odczytu.
     
-  * Bullet list
-    * Nested bullet
-        * Sub-nested bullet etc
-* Bullet list item 2
 
